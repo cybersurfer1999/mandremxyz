@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a web enumaration tool in c++
+- 🌱 I’m currently learning web application security and digital forensics
+- 👯 I’m looking to collaborate on a small hackathon project or a CTF
+- 🤔 I’m looking for help with web application security, certifications and finding a cool job (cool == cool people)
+- 💬 Ask me about writing infosec tools for yourself
+- 📫 How to reach me: i will make a personal website soon ...
+- 😄 Pronouns: vi/vim (saw this somewhere on the web)
+- ⚡ Fun fact: vim > emacs
+
 <!--
 **mandremxyz/mandremxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
